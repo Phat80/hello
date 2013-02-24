@@ -1,1 +1,1 @@
-This is a helloworld example for git
+<fr> c'est helloworld example pour git </en>
